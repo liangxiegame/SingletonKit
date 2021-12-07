@@ -1,0 +1,17 @@
+{
+  "name": "com.liangxiegame.singletonkit",
+  "version": "1.0.0",
+  "displayName": "SingletonKit",
+  "description": "SingletonKit 是一套单例工具，易上手且功能强大 | SingletonKit is a singleton toolkit.easy 2 use and powerful",
+  "license": "MIT",
+  "unity": "2018.4",
+  "documentationUrl": "https://qframework.cn/",
+  "keywords": [
+    "Singleton"
+  ],
+  "author": {
+    "name": "liangxie",
+    "email": "liangxiegame@163.com",
+    "url": "https://qframework.cn"
+  }
+}
